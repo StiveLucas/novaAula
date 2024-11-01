@@ -1,5 +1,8 @@
 # novaAula
 
+##Como fazer:
+
+
 ### Ojetivo:
 Realizar  um CRUD.
 - Create (Criar).
