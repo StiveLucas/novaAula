@@ -1,3 +1,5 @@
+#Aqui estamos criando e fazendo conexão com o banco de dados
+
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from contextlib import contextmanager
